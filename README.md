@@ -1,2 +1,0 @@
-# MyFirstRepository
-None
